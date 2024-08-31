@@ -1,1 +1,2 @@
+This machine learning model involves a process where data is first cleaned to remove noise and inconsistencies. The dataset is then split into training and testing sets to evaluate performance. To ensure robustness, cross_val_score with KFold cross-validation is used, which involves splitting the data into multiple folds and training the model on each fold to assess its stability. Once validated, the model is ready for predictions on unseen data.
 # Project_Flight_flare
